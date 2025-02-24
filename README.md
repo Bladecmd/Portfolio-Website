@@ -1,20 +1,32 @@
 # portfolio-website
 
 Portfolio Website
+
+
 This is my personal portfolio site built using HTML, CSS (Tailwind), React, React Player, JavaScript, and Solidity. It showcases my skills, projects, and experience, with a focus on web development, blockchain, and interactive features.
+
+
 
 🚀 Project Features
 Responsive Design – Fully responsive layout using Tailwind CSS, ensuring the site looks great on all screen sizes.
 Interactive Project Showcase – Showcases various projects with live demos and GitHub links.
+
 React Player – Embedded React Player for multimedia projects like audio stories, video tutorials, or project walkthroughs.
 JavaScript Interactivity – Adds interactive features like a contact form, dynamic content display, and smooth animations.
+
 Solidity Smart Contract Projects – Showcases blockchain projects with Solidity smart contracts and decentralized applications (dApps).
 Modern UI – Tailwind CSS for utility-first styling, ensuring a sleek, modern design.
+
 Dark Mode – Optimized for dark mode to enhance user experience on dark mode-enabled platforms.
+
+
 📂 Project Structure
 bash
 Copy
 Edit
+
+
+
 portfolio/
 │── public/                    # Static assets (images, fonts, etc.)
 │── src/                       # Source code
@@ -29,6 +41,9 @@ portfolio/
 │── README.md                  # This documentation file
 │── LICENSE                    # License file (MIT by default)
 📧 Technologies Used
+
+
+
 HTML – Structure and layout for the website.
 CSS – Tailwind CSS for styling and responsive design.
 React – JavaScript library for building interactive UIs.
